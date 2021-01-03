@@ -1,16 +1,7 @@
-[Adblock Plus 1.1]
 ! Version: 202012221220
-! Title: EasyPrivacy
+! Title: EasyPeasyPrivacy
 ! Last modified: 22 Dec 2020 12:20 UTC
-! Expires: 4 days (update frequency)
-! Homepage: https://easylist.to/
-! Licence: https://easylist.to/pages/licence.html
-! 
-! Please report any unblocked tracking or problems
-! in the forums (https://forums.lanik.us/)
-! or via e-mail (easylist@protonmail.com).
-! 
-! -----------------General tracking systems-----------------!
+! Expires: 4 days
 ! *** easylist:easyprivacy/easyprivacy_general.txt ***
 &action=js_stats&
 &action=js_stats_
