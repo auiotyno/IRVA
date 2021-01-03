@@ -1,1 +1,170 @@
+{
+	"assets.json": {
+		"content": "internal",
+		"updateAfter": 13,
+		"contentURL": [
+			"https://raw.githubusercontent.com/auiotyno/IRVA/main/assets/assets.json",
+			"assets/assets.json"
+		]
+	},
+	"public_suffix_list.dat": {
+		"content": "internal",
+		"updateAfter": 19,
+		"contentURL": [
+			"https://publicsuffix.org/list/public_suffix_list.dat",
+			"https://gitcdn.xyz/repo/publicsuffix/list/master/public_suffix_list.dat",
+			"assets/thirdparties/publicsuffix.org/list/effective_tld_names.dat"
+		]
+	},
+	"ublock-badlists": {
+		"content": "internal",
+		"updateAfter": 13,
+		"contentURL": [
+			"https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badlists.txt",
+			"assets/ublock/badlists.txt"
+		]
+	},
+	"ublock-badware": {
+		"content": "filters",
+		"group": "default",
+		"title": "uBlock filters – Badware risks",
+		"contentURL": [
+			"https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
+			"assets/ublock/badware.txt"
+		],
+		"supportURL": "https://github.com/gorhill/uBlock/wiki/Badware-risks",
+		"instructionURL": "https://github.com/gorhill/uBlock/wiki/Badware-risks"
+	},
+	"ublock-privacy": {
+		"content": "filters",
+		"group": "default",
+		"title": "uBlock filters – Privacy",
+		"contentURL": [
+			"https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt",
+			"assets/ublock/privacy.txt"
+		]
+	},
+	"ublock-abuse": {
+		"content": "filters",
+		"group": "default",
+		"title": "uBlock filters – Resource abuse",
+		"contentURL": [
+			"https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt",
+			"assets/ublock/resource-abuse.txt"
+		]
+	},
+	"ublock-unbreak": {
+		"content": "filters",
+		"group": "default",
+		"title": "uBlock filters – Unbreak",
+		"contentURL": [
+			"https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt",
+			"assets/ublock/unbreak.txt"
+		],
+		"cdnURLs": [
+			"https://gitcdn.xyz/repo/uBlockOrigin/uAssets/master/filters/unbreak.txt",
+			"https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssets@master/filters/unbreak.txt",
+			"https://cdn.statically.io/gh/uBlockOrigin/uAssets/master/filters/unbreak.txt"
+		]
+	},
+	"fanboy-enhanced": {
+		"content": "filters",
+		"group": "privacy",
+		"off": true,
+		"title": "Fanboy’s Enhanced Tracking List",
+		"contentURL": "https://www.fanboy.co.nz/enhancedstats.txt",
+		"supportURL": "https://github.com/ryanbr/fanboy-adblock/issues"
+	},
+	"urlhaus-1": {
+		"content": "filters",
+		"group": "malware",
+		"title": "Online Malicious URL Blocklist",
+		"contentURL": [
+			"https://curben.gitlab.io/malware-filter/urlhaus-filter-online.txt",
+			"https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt",
+			"assets/thirdparties/urlhaus-filter/urlhaus-filter-online.txt"
+		],
+		"cdnURLs": [
+			"https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-online.txt",
+			"https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt",
+			"https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-online.txt",
+			"https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt",
+			"https://curben.gitlab.io/malware-filter/urlhaus-filter-online.txt"
+		],
+		"supportURL": "https://gitlab.com/curben/urlhaus-filter#urlhaus-malicious-url-blocklist"
+	},
+	"spam404-0": {
+		"content": "filters",
+		"group": "malware",
+		"off": true,
+		"title": "Spam404",
+		"contentURL": "https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt",
+		"supportURL": "http://www.spam404.com/"
+	},
+	"adguard-annoyance": {
+		"content": "filters",
+		"group": "social",
+		"off": true,
+		"title": "AdGuard Annoyances",
+		"contentURL": "https://filters.adtidy.org/extension/ublock/filters/14.txt",
+		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters",
+		"instructionURL": "https://kb.adguard.com/en/general/adguard-ad-filters"
+	},
+	"adguard-social": {
+		"content": "filters",
+		"group": "social",
+		"off": true,
+		"title": "AdGuard Social Media",
+		"contentURL": "https://filters.adtidy.org/extension/ublock/filters/4.txt",
+		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters",
+		"instructionURL": "https://kb.adguard.com/en/general/adguard-ad-filters"
+	},
+	"fanboy-thirdparty_social": {
+		"content": "filters",
+		"group": "social",
+		"off": true,
+		"title": "Anti-Facebook",
+		"contentURL": "https://secure.fanboy.co.nz/fanboy-antifacebook.txt",
+		"supportURL": "https://github.com/ryanbr/fanboy-adblock/issues"
+	},
+	"fanboy-annoyance": {
+		"content": "filters",
+		"group": "social",
+		"off": true,
+		"title": "Fanboy’s Annoyance",
+		"contentURL": "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
+		"supportURL": "https://forums.lanik.us/"
+	},
+	"fanboy-cookiemonster": {
+		"content": "filters",
+		"group": "social",
+		"off": true,
+		"title": "EasyList Cookie",
+		"contentURL": "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",
+		"supportURL": "https://github.com/easylist/easylist/issues"
+	},
+	"fanboy-social": {
+		"content": "filters",
+		"group": "social",
+		"off": true,
+		"title": "Fanboy’s Social",
+		"contentURL": [
+			"https://easylist.to/easylist/fanboy-social.txt",
+			"https://secure.fanboy.co.nz/fanboy-social.txt"
+		],
+		"supportURL": "https://forums.lanik.us/"
+	},
+	"ublock-annoyances": {
+		"content": "filters",
+		"group": "social",
+		"title": "uBlock filters – Annoyances",
+		"off": true,
+		"contentURL": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt",
+		"cdnURLs": [
+			"https://gitcdn.xyz/repo/uBlockOrigin/uAssets/master/filters/annoyances.txt",
+			"https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssets@master/filters/annoyances.txt",
+			"https://cdn.statically.io/gh/uBlockOrigin/uAssets/master/filters/annoyances.txt"
+		]
+	}
+}
 
