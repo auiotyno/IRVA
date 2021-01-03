@@ -53,20 +53,6 @@
 			"assets/ublock/resource-abuse.txt"
 		]
 	},
-	"ublock-unbreak": {
-		"content": "filters",
-		"group": "default",
-		"title": "uBlock filters – Unbreak",
-		"contentURL": [
-			"https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt",
-			"assets/ublock/unbreak.txt"
-		],
-		"cdnURLs": [
-			"https://gitcdn.xyz/repo/uBlockOrigin/uAssets/master/filters/unbreak.txt",
-			"https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssets@master/filters/unbreak.txt",
-			"https://cdn.statically.io/gh/uBlockOrigin/uAssets/master/filters/unbreak.txt"
-		]
-	},
 	"fanboy-enhanced": {
 		"content": "filters",
 		"group": "privacy",
