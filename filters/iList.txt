@@ -1,0 +1,13 @@
+! Expires: 1 day
+
+
+! aparat.com
+/video_thumb_star/
+aparat.com##[id^="promotion"]
+aparat.com##[class^="promotion"]
+aparat.com##.subscribe-message
+/agf-file/$domain=aparat.com
+||/filimo/$domain=aparat.com
+aparat.com##.w-100
+aparat.com###list1
+aparat.com##[id^="ad"]
