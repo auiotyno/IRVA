@@ -53,6 +53,15 @@
 			"assets/ublock/resource-abuse.txt"
 		]
 	},
+		"easy-peasy-privacy": {
+		"content": "filters",
+		"group": "default",
+		"title": "EasyPeasyPrivacy",
+		"contentURL": [
+			"https://raw.githubusercontent.com/auiotyno/IRVA/main/filters/easypeasyprivacy.txt",
+			"assets/IRVA/easypeasyprivacy.txt"
+		]
+	},
 	"fanboy-enhanced": {
 		"content": "filters",
 		"group": "privacy",
@@ -153,4 +162,3 @@
 		]
 	}
 }
-
