@@ -53,6 +53,15 @@
 			"assets/ublock/resource-abuse.txt"
 		]
 	},
+			"ilist": {
+		"content": "filters",
+		"group": "default",
+		"title": "iList",
+		"contentURL": [
+			"https://raw.githubusercontent.com/auiotyno/IRVA/main/filters/easypeasyprivacy.txt",
+			"assets/IRVA/iList.txt"
+		]
+	},
 		"easy-peasy-privacy": {
 		"content": "filters",
 		"group": "default",
