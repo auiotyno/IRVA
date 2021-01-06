@@ -58,7 +58,7 @@
 		"group": "default",
 		"title": "iList",
 		"contentURL": [
-			"https://raw.githubusercontent.com/auiotyno/IRVA/main/filters/easypeasyprivacy.txt",
+			"https://raw.githubusercontent.com/auiotyno/IRVA/main/filters/iList.txt",
 			"assets/IRVA/iList.txt"
 		]
 	},
